@@ -20,7 +20,7 @@ h2
   font-size: 2.5rem;
   color: #66BFBF;
   font-weight: normal;
-  paddin-bottom: 10px
+  padding-bottom: 10px;
 }
 
 h3
@@ -50,7 +50,7 @@ hr
 
 .middle-container
 {
-  margin: 100px 0;
+  margin: 200px 0;
 }
 
 .bottom-container
@@ -121,11 +121,6 @@ a:hover
 {
   width: 20%;
   float: right;
-}
-
-.contact-me
-{
-  margin: 40px auto;
 }
 
 .btn {
